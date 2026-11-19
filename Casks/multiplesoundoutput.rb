@@ -1,6 +1,6 @@
 cask "multiplesoundoutput" do
-  version "1.0.0"
-  sha256 "91095ff6fddd44357e34782dbd7ecb76f67c7e67102a757fb658aacd4a061a6c"
+  version "1.0.1"
+  sha256 "09db22f0b0d9cc44247134afe38fed05b74cbd99a1da18bb832e31dc09b7c3f1"
 
   url "https://github.com/gmaendel/MultipleSoundOutput/releases/download/v#{version}/MultipleSoundOutput-#{version}.zip"
   name "MultipleSoundOutput"
